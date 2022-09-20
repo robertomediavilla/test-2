@@ -93,3 +93,5 @@ respond-wp2-ecs
 
 Use the folders as indicated to store the different files and generate the
 outputs of the processes.
+
+Add a line to readme file
